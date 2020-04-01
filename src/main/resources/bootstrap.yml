@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: www.xmfairy.top:7448
+        group: DEFAULT_GROUP
+        # 文件后缀，默认为properties 【yaml】
+        file-extension: properties
