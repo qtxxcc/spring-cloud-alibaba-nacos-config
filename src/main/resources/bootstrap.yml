@@ -5,4 +5,6 @@ spring:
         server-addr: localhost:8848
         group: DEFAULT_GROUP
         # 文件后缀，默认为properties 【yaml】
-        file-extension: properties
+        file-extension: yaml
+        enabled: true
+
